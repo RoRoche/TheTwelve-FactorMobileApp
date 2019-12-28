@@ -74,12 +74,12 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 
 ## Also worth considering
 
-- Take care of battery life
-- Minimize network footprint and data consumption
+- Take care of battery life.
+- Minimize network footprint and data consumption.
 
 ## Also worth reading
 
-- <https://github.com/RoRoche/talks/blob/master/mobile_application_beginner_guide/mobile_application_beginner_guide.md>
+- [Mobile application: the beginner guide](https://github.com/RoRoche/talks/blob/master/mobile_application_beginner_guide/mobile_application_beginner_guide.md)
 
 ## Inspirations
 
