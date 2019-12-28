@@ -66,7 +66,7 @@ Think to embed a verbose crash reporter so that you can be aware of error thrown
 Deactivate logging.
 Keep signing elements safe (certificates, keys) for later updates.
 
-**12. Upgrade/downgrade database wisely **
+**12. Upgrade/downgrade database wisely**
 
 Use database version.
 Alter table to add/removes columns.
