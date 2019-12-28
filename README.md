@@ -19,11 +19,11 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 **3. Maximise the use of native components**
 
 - UI/UX widgets to build UI.
-- SDK core components to build the logical layers
+- SDK core components to build the logical layers.
 
 **4. Build a smooth UI**
 
-- Never block the UI andrun big computation in background
+- Never block the UI andrun big computation in background.
 - Keep the user informed and notify him about the current status.
 - Reuse cells in list.
 - Prevent configurations changes and interruptions (phone call).
@@ -50,7 +50,7 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 
 **9. Minimize binary size**
 
-- Minimize the use of 3rd-party libraries to reduce the binary size
+- Minimize the use of 3rd-party libraries to reduce the binary size.
 
 **10. Secure everything**
 
