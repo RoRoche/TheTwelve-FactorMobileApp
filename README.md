@@ -26,8 +26,8 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 - Never block the UI andrun big computation in background.
 - Keep the user informed and notify him about the current status.
 - Reuse cells in list.
-- Prevent configurations changes and interruptions (phone call).
-- Preopulate forms as much as possible.
+- Deal with configurations changes and interruptions (phone call).
+- Prepopulate forms as much as possible.
 
 **5. Use local cache as single source of truth**
 
@@ -63,7 +63,7 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 
 - Be able to deploy from any machine.
 - Think to embed a verbose crash reporter, so that you can be aware of errors that occurred while using your application.
-- Deactivate logging.
+- Disable logging.
 - Keep signing elements safe (certificates, keys) for later updates.
 
 **12. Upgrade/downgrade database wisely**
