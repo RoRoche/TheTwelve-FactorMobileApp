@@ -62,7 +62,7 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 **11. Be production-ready**
 
 - Be able to deploy from any machine.
-- Think to embed a verbose crash reporter so that you can be aware of error thrown while using your application.
+- Think to embed a verbose crash reporter, so that you can be aware of errors that occurred while using your application.
 - Deactivate logging.
 - Keep signing elements safe (certificates, keys) for later updates.
 
