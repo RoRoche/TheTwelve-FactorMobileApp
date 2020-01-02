@@ -23,7 +23,7 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 
 **4. Build a smooth UI**
 
-- Never block the UI andrun big computation in background.
+- Never block the UI and run big computation in background.
 - Keep the user informed and notify him about the current status.
 - Reuse cells in list.
 - Deal with configurations changes and interruptions (phone call).
@@ -32,7 +32,7 @@ Moreover, I found the [ios-factor](https://ios-factor.com/) and here is the way 
 **5. Use local cache as single source of truth**
 
 - So your application can work even without network (and access to the backend), cache remote data into local storage (into the embedded SQLite database).
-- Build a consistent offline mode with data synchronisation (compare delta to get the freshest data).
+- Build a consistent offline mode with data synchronization (compare delta to get the freshest data).
 
 **6. Be careful of components lifecycle** 
 
